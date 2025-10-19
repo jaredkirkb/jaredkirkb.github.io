@@ -1,5 +1,3 @@
-# Jared Kirk Begonia
-
 # What is on this site?
 - My School Project
 - Simple Website creation
