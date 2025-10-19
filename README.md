@@ -1,11 +1,10 @@
-# jaredkirkb.github.io
+# Jared Kirk Begonia
 
-# Project
-## Project 1
+# What is on this site?
 - My School Project
 - Simple Website creation
 
-#About me
+# About me
 - Grade 8 Student
 
 # Education
