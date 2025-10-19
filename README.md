@@ -1,7 +1,7 @@
 # jaredkirkb.github.io
 
-#project
-##project 1
+#Project
+##Project 1
 - My School Project
 - Simple Website creation
 
